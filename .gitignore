@@ -1,0 +1,4 @@
+Report
+*.ipynb
+.Data
+.ipynb_checkpoints
